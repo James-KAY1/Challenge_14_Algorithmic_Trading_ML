@@ -37,14 +37,14 @@ N/A
 ---
 ## Evaluation Report
 
-* Baseline Model:
+* **Baseline Model**:
 
-Classification Report
+a) Classification Report
 
 
 ![<Original_SVC_model_prediction>](./Images/Original_SVC_model_prediction.jpg)
 
-Cumulative return plot (actual returns vs the strategy returns)
+b) Cumulative return plot (actual returns vs the strategy returns)
 
 ![<Baseline_Cumulative_Return_plot>](./Images/Baseline_Cumulative_Return_plot.jpg)
 
